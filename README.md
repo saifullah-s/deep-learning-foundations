@@ -1,6 +1,14 @@
 [Home](https://github.com/saifullah-s/portfolio/blob/main/README.md) &nbsp;·&nbsp; [Projects](https://github.com/saifullah-s/portfolio/blob/main/projects.md) &nbsp;·&nbsp; [Skills](https://github.com/saifullah-s/portfolio/blob/main/skills.md) &nbsp;·&nbsp; [About Me](https://github.com/saifullah-s/portfolio/blob/main/about-me.md) &nbsp;·&nbsp; [Contact](https://github.com/saifullah-s/portfolio/blob/main/contact.md) &nbsp;·&nbsp; [Resume](https://github.com/saifullah-s/portfolio/blob/main/resume.md)  
 
-# Deep Learning - Foundational Projects
+# Deep Learning Foundational Projects
+
+## Summary
+-	Built core deep learning models from scratch, mastering the mechanics of neural networks.
+-	Strengthened the ability to design, train, and optimize deep learning models for real-world applications.
+-	Developed fully connected deep neural networks, implementing forward propagation, backpropagation, activation functions, and advanced optimizers (Adam, Momentum, Stochastic Gradient Descent).
+-	Gained expertise in regularization methods (L2, dropout), weight initialization, and hyperparameter tuning.
+-	Implemented Convolutional Neural Networks (CNNs) from scratch, including convolutional layers, pooling layers, and padding, along with re-implementing the ResNet-50 architecture for image recognition tasks.
+-	Created Sequence Models (RNNs, GRUs, LSTMs) to analyze sequential and time-series data.
 
 ## Overview  
 Completed several deep learning projects focusing on core concepts related to neural networks. These projects provided a deep dive into the foundations of neural networks, optimization, and sequence modeling, allowing me to "look under the hood". They involved implementing and designing deep learning models from scratch, that is without the help of frameworks such as TensorFlow/Pytorch. This forced me to thoroughly master and understand the underlying mechanics of neural networks, including standard networks, convolutional neural networks and sequence models (RNN, GRU, LSTM). 
